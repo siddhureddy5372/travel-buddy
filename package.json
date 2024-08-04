@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "react-native-websocket": "^1.0.2"
+  }
+}
